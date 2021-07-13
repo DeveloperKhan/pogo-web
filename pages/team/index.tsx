@@ -401,10 +401,8 @@ const TeamPage = () => {
   // const { user } = useContext(UserContext)
   const [metas] = useState([
     'Great League',
-    'Venture Cup',
+    '2021 Continentals',
     'Atlantis Field',
-    'Bidoof Cup',
-    'Element Cup',
     'Specialist Cup',
     'Nursery Cup',
     'Cliffhanger',

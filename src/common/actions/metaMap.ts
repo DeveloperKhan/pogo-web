@@ -11,24 +11,14 @@ const metaMap: {
     maxCP: 1500,
     movesetOption: 'original',
   },
-  'Venture Cup': {
-    name: 'Venture Cup',
-    maxCP: 1500,
-    movesetOption: 'original',
-  },
   'Atlantis Field': {
     name: 'Atlantis Field',
     maxCP: 1500,
     movesetOption: 'original',
   },
-  'Bidoof Cup': {
-    name: 'Bidoof Cup',
-    maxCP: 500,
-    movesetOption: 'original',
-  },
-  'Element Cup': {
-    name: 'Element Cup',
-    maxCP: 500,
+  '2021 Continentals': {
+    name: '2021 Continentals',
+    maxCP: 1500,
     movesetOption: 'original',
   },
   'Specialist Cup': {
